@@ -1,12 +1,14 @@
-color: #f0f0f0;
-
-body {
+h1{
+color:red
+}
+body{
     font-family: Arial, sans-serif;
+    align-items: center;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
     margin: 0;
-    padding: 0;
+    
 }
 
-header {
-    background-color: #333;
-    color: white;
-    
