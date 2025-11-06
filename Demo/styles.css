@@ -1,0 +1,14 @@
+h1{
+color:rgb(173, 9, 9)
+}
+body{
+    font-family: Arial, sans-serif;
+    align-items: center;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    
+}
+
